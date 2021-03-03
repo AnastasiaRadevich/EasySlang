@@ -1,0 +1,92 @@
+[
+{
+"title": "Business concepts",
+"image": "analysis.jpg",
+"words": [
+{"title": "analysis", "translate": "аналитика", "image": "analysis.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/analysis.mp3"]},
+{"title": "e-banking", "translate": "электронный банкинг", "image": "banking.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/e.mp3", "https://wooordhunt.ru/data/sound/sow/us/banking.mp3"]},
+{"title": "cloud computing", "translate": "облачные вычисления", "image": "cloud-computing.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/cloud.mp3", "https://wooordhunt.ru/data/sound/sow/us/computing.mp3"]},
+{"title": "e-commerce", "translate": "электронная коммерция", "image": "commerce.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/e.mp3", "https://wooordhunt.ru/data/sound/sow/us/commerce.mp3"]},
+{"title": "corporate", "translate": "корпоративный", "image": "corporate.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/corporate.mp3"]},
+{"title": "creative process", "translate": "творческий процесс", "image": "creative-process.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/creative.mp3", "https://wooordhunt.ru/data/sound/sow/us/process.mp3"]},
+{"title": "idea", "translate": "идея", "image": "idea.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/idea.mp3"]},
+{"title": "leadership", "translate": "лидерство", "image": "leadership.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/leadership.mp3"]},
+{"title": "web development", "translate": "веб-разработка", "image": "web-development.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/web.mp3", "https://wooordhunt.ru/data/sound/sow/us/development.mp3"]}
+],
+"state": "default",
+"isCollection": true,
+"id": 0
+},
+{
+"title": "Education",
+"image": "graduate.jpg",
+"words": [
+{"title": "diploma", "translate": "диплом", "image": "diploma.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/diploma.mp3"]},
+{"title": "graduate", "translate": "выпускник", "image": "graduate.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/graduate.mp3"]},
+{"title": "mentoring", "translate": "наставничество", "image": "mentoring.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/mentoring.mp3"]},
+{"title": "online training", "translate": "онлайн обучение", "image": "online-training.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/online.mp3", "https://wooordhunt.ru/data/sound/sow/us/training.mp3"]},
+{"title": "studying", "translate": "изучение", "image": "studying.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/studying.mp3"]},
+{"title": "time management", "translate": "тайм-менеджмент", "image": "time-management.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/time.mp3", "https://wooordhunt.ru/data/sound/sow/us/management.mp3"]}
+],
+"state": "default",
+"isCollection": true,
+"id": 1
+},
+{
+"title": "Gadgets",
+"image": "laptop.jpg",
+"words": [
+{"title": "HDD", "translate": "жёсткий диск", "image": "HDD.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/hard.mp3", "https://wooordhunt.ru/data/sound/sow/us/disk.mp3"]},
+{"title": "headphones", "translate": "наушники", "image": "Headphones.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/headphones.mp3"]},
+{"title": "laptop", "translate": "ноутбук", "image": "laptop.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/laptop.mp3"]},
+{"title": "monitor", "translate": "монитор", "image": "monitor.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/monitor.mp3"]},
+{"title": "processor", "translate": "процессор", "image": "Processor.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/processor.mp3"]},
+{"title": "watch", "translate": "часы", "image": "Watch.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/watch.mp3"]}],
+"state": "default",
+"isCollection": true,
+"id": 2
+},
+{
+"title": "Remote work",
+"image": "pandemic.jpg",
+"words": [
+{"title": "breakfast", "translate": "завтрак", "image": "breakfast.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/breakfast.mp3"]},
+{"title": "conversation", "translate": "переговоры", "image": "conversation.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/conversation.mp3"]},
+{"title": "message", "translate": "сообщение", "image": "message.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/message.mp3"]},
+{"title": "pandemic", "translate": "пандемия", "image": "pandemic.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/pandemic.mp3"]},
+{"title": "search", "translate": "поиск", "image": "search.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/search.mp3"
+]},
+{"title": "workplace", "translate": "рабочее место", "image": "workplace.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/workplace.mp3"]}],
+"state": "default",
+"isCollection": true,
+"id": 3
+},
+{
+"title": "Teamwork",
+"image": "analysis.jpg",
+"words": [
+{"title": "analysis", "translate": "аналитика", "image": "analysis.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/analysis.mp3"]},
+{"title": "announcement", "translate": "объявление", "image": "announcement.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/announcement.mp3"]},
+{"title": "communication", "translate": "общение", "image": "communication.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/communication.mp3"]},
+{"title": "connection", "translate": "связь", "image": "connection.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/connection.mp3"]},
+{"title": "presentation", "translate": "презентация", "image": "presentation.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/presentation.mp3"]},
+{"title": "teamwork", "translate": "работа в команде", "image": "teamwork.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/teamwork.mp3"]}],
+"state": "default",
+"isCollection": true,
+"id": 4
+},
+{
+"title": "Working process",
+"image": "announcement.jpg",
+"words": [
+{"title": "announcement", "translate": "объявление", "image": "announcement.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/announcement.mp3"]},
+{"title": "chat", "translate": "чат", "image": "Chat.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/chat.mp3"]},
+{"title": "coworker", "translate": "коворкинг", "image": "Coworking.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/coworker.mp3"]},
+{"title": "designer", "translate": "дизайнер", "image": "Designer.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/designer.mp3"]},
+{"title": "HR Manager", "translate": "менеджер по персоналу", "image": "hr.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/hr.mp3", "https://wooordhunt.ru/data/sound/sow/us/manager.mp3"]},
+{"title": "new app", "translate": "новое приложение", "image": "new-app.jpg", "state": "default", "sound": ["https://wooordhunt.ru/data/sound/sow/us/new.mp3", "https://wooordhunt.ru/data/sound/sow/us/app.mp3"]}],
+"state": "default",
+"isCollection": true,
+"id": 5
+}
+]
